@@ -121,13 +121,6 @@ const eu = {
 
 ---
 
-## 💬 Frase do Dia
-
-<div align="center">
-
-*"O código é poesia que a máquina pode entender."* ✨
-
-</div>
 
 ---
 
@@ -137,6 +130,6 @@ const eu = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Kalidade-Dev&color=2ECC71&style=for-the-badge&label=VISITANTES+DO+PERFIL)
 
-**Feito com ❤️ e muito café ☕**
+
 
 </div>
