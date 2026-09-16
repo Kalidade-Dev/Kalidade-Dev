@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+##  Sobre Mim
 
 ```javascript
 const eu = {
@@ -55,7 +55,7 @@ const eu = {
 
 ---
 
-## 📊 Minhas Estatísticas
+##  Minhas Estatísticas
 
 <div align="center">
 
