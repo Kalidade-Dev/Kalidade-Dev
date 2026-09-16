@@ -59,15 +59,15 @@ const eu = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalidade-Dev&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kalidade-Dev&theme=radical&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalidade-Dev&layout=compact&theme=radical&hide_border=true&langs_count=8&show_icons=true)
 
 </div>
 
@@ -77,7 +77,7 @@ const eu = {
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kalidade-Dev&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -87,7 +87,7 @@ const eu = {
 
 <div align="center">
 
-[![Seu Nome's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0d1117&color=7ee787&line=7ee787&point=ffffff&area=true&area_color=2ECC71&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Seu Nome's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kalidade-Dev&bg_color=0d1117&color=7ee787&line=7ee787&point=ffffff&area=true&area_color=2ECC71&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -98,7 +98,7 @@ const eu = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalidade-Dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-2ECC71?style=for-the-badge&logo=vercel&logoColor=white)](https://seusite.com)
 
@@ -120,9 +120,8 @@ const eu = {
 
 ![](#)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=2ECC71&style=for-the-badge&label=VISITANTES+DO+PERFIL)
+![Visitor Count](https://komarev.com/ghpvc/?username=Kalidade-Dev&color=2ECC71&style=for-the-badge&label=VISITANTES+DO+PERFIL)
 
 **Feito com ❤️ e muito café ☕**
 
 </div>
-
