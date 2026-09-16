@@ -15,7 +15,7 @@
 ```javascript
 const eu = {
   nome: "Joao Lucas",
-  localização: "Brasil 🇧🇷",
+  localização: "Brasil  RS",
   Faculdade: "Analise e Desenvolvimento de Sistemas",
   atualmente: "Aprendendo novas tecnologias e construindo projetos"
 };
