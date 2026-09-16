@@ -115,7 +115,7 @@ const eu = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalidade-Dev)
-[![Portfólio](https://img.shields.io/badge/Portfólio-2ECC71?style=for-the-badge&logo=vercel&logoColor=white)](https://kalidade-dev.github.io)
+[![Portfólio](https://img.shields.io/badge/Portfólio-2ECC71?style=for-the-badge&logo=vercel&logoColor=white)](https://kalidade-dev.github.io/Portfolio/)
 
 </div>
 
