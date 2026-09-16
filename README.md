@@ -10,12 +10,12 @@
 
 ---
 
-##  Sobre Mim
+## 🚀 Sobre Mim
 
 ```javascript
 const eu = {
   nome: "Joao Lucas",
-  localização: "Brasil  RS",
+  localização: "Brasil 🇧🇷",
   Faculdade: "Analise e Desenvolvimento de Sistemas",
   atualmente: "Aprendendo novas tecnologias e construindo projetos"
 };
@@ -55,7 +55,7 @@ const eu = {
 
 ---
 
-##  Minhas Estatísticas
+## 📊 Minhas Estatísticas
 
 <div align="center">
 
@@ -115,7 +115,7 @@ const eu = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalidade-Dev)
-[![Portfólio](https://img.shields.io/badge/Portfólio-2ECC71?style=for-the-badge&logo=vercel&logoColor=white)](https://seusite.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-2ECC71?style=for-the-badge&logo=vercel&logoColor=white)](https://kalidade-dev.github.io)
 
 </div>
 
