@@ -61,33 +61,14 @@ const eu = {
 
 <table>
 <tr>
-<td align="center" width="180">
+<td align="center" width="200">
   <img src="https://img.shields.io/badge/💻_Projetos-15-2ECC71?style=for-the-badge&logo=github&logoColor=white" alt="Projetos"/>
-  <br><br>
-  <img height="5" width="180" src="https://raw.githubusercontent.com/platane/snk/9e0a307fb7386f2f3b5381d9d0206a27b770677e/output/github-contribution-grid-snake-dark.svg">
 </td>
-<td align="center" width="180">
-  <img src="https://img.shields.io/badge/⭐_Stars-34-F4D03F?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+<td align="center" width="200">
+  <img src="https://img.shields.io/badge/🌟_Contribuições-60-2ECC71?style=for-the-badge&logo=github&logoColor=white" alt="Contribuições"/>
 </td>
-<td align="center" width="180">
-  <img src="https://img.shields.io/badge/🔀_Pull_Requests-8-9B59B6?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests"/>
-</td>
-<td align="center" width="180">
-  <img src="https://img.shields.io/badge/📥_Commits-287-3498DB?style=for-the-badge&logo=github&logoColor=white" alt="Commits"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="180">
-  <img src="https://img.shields.io/badge/🐛_Issues_Resolvidos-12-E74C3C?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
-</td>
-<td align="center" width="180">
-  <img src="https://img.shields.io/badge/👥_Colaboradores-6-1ABC9C?style=for-the-badge&logo=github&logoColor=white" alt="Colaboradores"/>
-</td>
-<td align="center" width="180">
-  <img src="https://img.shields.io/badge/📦_Repositórios-23-E67E22?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"/>
-</td>
-<td align="center" width="180">
-  <img src="https://img.shields.io/badge/🌟_Contribuições-450-2ECC71?style=for-the-badge&logo=github&logoColor=white" alt="Contribuições"/>
+<td align="center" width="200">
+  <img src="https://img.shields.io/badge/👥_Colaboradores-1-1ABC9C?style=for-the-badge&logo=github&logoColor=white" alt="Colaboradores"/>
 </td>
 </tr>
 </table>
