@@ -86,21 +86,25 @@ const eu = {
 
 ---
 
-## 🏆 Troféus e Conquistas
+## 🏆 Conquistas
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kalidade-Dev&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![Pull Requests Merged](https://img.shields.io/badge/Pull_Requests-8_Merged-2ECC71?style=for-the-badge&logo=github&logoColor=white)
+![Code Reviews](https://img.shields.io/badge/Code_Reviews-12_Realizados-9B59B6?style=for-the-badge&logo=github&logoColor=white)
+![Issues Closed](https://img.shields.io/badge/Issues_Closed-12-E74C3C?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Commits-287_No_Repositório-3498DB?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Contribuições
+## 📅 Atividade Recente
 
 <div align="center">
 
-[![Seu Nome's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kalidade-Dev&bg_color=0d1117&color=7ee787&line=7ee787&point=ffffff&area=true&area_color=2ECC71&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Streak](https://img.shields.io/badge/🔥_Sequência_Atual-5_dias-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
+![Dias_Ativos](https://img.shields.io/badge/📅_Dias_Ativos_No_Último_Mês-12-2ECC71?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
