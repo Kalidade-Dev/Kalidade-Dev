@@ -59,15 +59,20 @@ const eu = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalidade-Dev&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kalidade-Dev&theme=radical&hide_border=true"/>
+<a href="https://github.com/Kalidade-Dev">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kalidade-Dev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+</a>
+<a href="https://github.com/Kalidade-Dev">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kalidade-Dev&theme=radical&hide_border=true&background=0d1117&stroke=7ee787&ring=7ee787&fire=7ee787&currStreakLabel=7ee787&sideLabels=f472b6"/>
+</a>
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalidade-Dev&layout=compact&theme=radical&hide_border=true&langs_count=8&show_icons=true)
+<a href="https://github.com/Kalidade-Dev">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kalidade-Dev&layout=compact&theme=radical&hide_border=true&langs_count=8&show_icons=true"/>
+</a>
 
 </div>
 
